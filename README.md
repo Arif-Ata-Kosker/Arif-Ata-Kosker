@@ -2,22 +2,21 @@
 
 Arif Ata Köşker (Arif Ata Kosker) is a developer and content creator based in
 İzmir, Türkiye, working on artificial intelligence and automation. He is the
-founder of FeastFlows, an agency that supports restaurants in their digital
-transformation, and builds automation workflows, AI-assisted video pipelines
+founder of FeastFlows, software for restaurants that runs their loyalty,
+ordering and campaigns, and builds automation workflows, AI-assisted video pipelines
 and live web applications for businesses. He publishes setup guides for the
 systems he builds at arifatakosker.com/kaynaklar.
 
 ## What I build
 
-- **Automation systems** written in Python
+- **Automation systems** with Python, Node.js, Google Apps Script and n8n
 - **Live web applications** with admin panels, built on Next.js and Supabase
 - **AI-assisted video pipelines** using Kling and Remotion
 - **Social media messaging flows** that turn followers into customers
 
 ## Projects
 
-- **[FeastFlows](https://feastflows.com)**: an agency that supports restaurants
-  in their digital transformation. WhatsApp loyalty system, win-back campaigns,
+- **[FeastFlows](https://feastflows.com)**: software for restaurants. WhatsApp loyalty system, win-back campaigns,
   QR menu and website, running with real restaurants.
 - **[Resources archive](https://www.arifatakosker.com/kaynaklar)**: bilingual
   setup guides for AI tools. Every step verified against its own source, with
