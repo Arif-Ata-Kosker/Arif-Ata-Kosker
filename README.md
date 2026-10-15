@@ -11,7 +11,8 @@ systems he builds at arifatakosker.com/kaynaklar.
 
 - **Automation systems** with Python, Node.js, Google Apps Script and n8n
 - **Live web applications** with admin panels, built on Next.js and Supabase
-- **AI-assisted video pipelines** using Kling and Remotion
+- **AI-assisted video pipelines** using Kling and Remotion. Listed in the
+  [Remotion Experts directory](https://www.remotion.dev/experts/arif-ata-kosker)
 - **Social media messaging flows** that turn followers into customers
 
 ## Projects
@@ -25,6 +26,7 @@ systems he builds at arifatakosker.com/kaynaklar.
 ## Where to find me
 
 - Website: [arifatakosker.com](https://www.arifatakosker.com)
+- Remotion Experts: [remotion.dev/experts/arif-ata-kosker](https://www.remotion.dev/experts/arif-ata-kosker)
 - About: [arifatakosker.com/hakkimda](https://www.arifatakosker.com/hakkimda)
 - YouTube: [@arifatakosker](https://www.youtube.com/@arifatakosker)
 - Instagram: [@arifata.kosker](https://instagram.com/arifata.kosker)
